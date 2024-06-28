@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac354694-245e-4218-9876-2f116920e530" name="Changes" comment="DepartmentDao and SellerDao interfaces">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/dao/DaoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ac354694-245e-4218-9876-2f116920e530" name="Changes" comment="SellerDaoJDBC and DaoFactory">
       <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/dao/DaoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/DaoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/entities/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/entities/Department.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719581111768</updated>
-      <workItem from="1719581113648" duration="3953000" />
+      <workItem from="1719581113648" duration="5900000" />
     </task>
     <task id="LOCAL-00001" summary="Department entity class">
       <created>1719585591249</created>
@@ -92,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1719586390426</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="SellerDaoJDBC and DaoFactory">
+      <created>1719596116397</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719596116397</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +131,7 @@
     <MESSAGE value="Department entity class" />
     <MESSAGE value="Seller entity class" />
     <MESSAGE value="DepartmentDao and SellerDao interfaces" />
-    <option name="LAST_COMMIT_MESSAGE" value="DepartmentDao and SellerDao interfaces" />
+    <MESSAGE value="SellerDaoJDBC and DaoFactory" />
+    <option name="LAST_COMMIT_MESSAGE" value="SellerDaoJDBC and DaoFactory" />
   </component>
 </project>
