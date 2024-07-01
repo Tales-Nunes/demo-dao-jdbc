@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac354694-245e-4218-9876-2f116920e530" name="Changes" comment="findAll Implementation">
+    <list default="true" id="ac354694-245e-4218-9876-2f116920e530" name="Changes" comment="Insert Implementation">
       <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" afterDir="false" />
     </list>
@@ -66,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719581111768</updated>
-      <workItem from="1719581113648" duration="9057000" />
+      <workItem from="1719581113648" duration="9662000" />
     </task>
     <task id="LOCAL-00001" summary="Department entity class">
       <created>1719585591249</created>
@@ -124,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1719843350773</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Insert Implementation">
+      <created>1719844246095</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1719844246095</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +169,7 @@
     <MESSAGE value="Reusing instantiation" />
     <MESSAGE value="findByDepartment implementation" />
     <MESSAGE value="findAll Implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="findAll Implementation" />
+    <MESSAGE value="Insert Implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Insert Implementation" />
   </component>
 </project>
